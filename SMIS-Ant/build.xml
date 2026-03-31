@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NetBeans Ant Build for SMIS - Student Management Information System -->
+<project name="SMIS" default="run" basedir=".">
+
+    <description>SMIS - Student Management Information System (Ant Build)</description>
+
+    <!-- Import NetBeans standard build macros -->
+    <import file="nbproject/build-impl.xml"/>
+
+</project>
